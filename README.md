@@ -20,7 +20,7 @@ Une application Python pour lire des CV et générer des questions et réponses 
 
 1. Clonez le dépôt ou téléchargez les fichiers source.
 
-   git clone https://github.com/votre-utilisateur/cv_interview_app.git
+   git clone https://github.com/votre-utilisateur/Basic_CV_Analyzer.git
    cd cv_interview_app
 2. Installez les dépendances requises :
    pip install PyPDF2 openai
